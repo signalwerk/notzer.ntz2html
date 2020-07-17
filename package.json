@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/signalwerk/notzer.ntz2html#readme",
   "dependencies": {
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.19",
     "xmlbuilder": "^10.0.0"
   },
   "devDependencies": {
